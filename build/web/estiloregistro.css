@@ -1,0 +1,27 @@
+body {
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.estiloform {
+    background-color: lightblue;
+    border: 3px solid black;
+    
+}
+
+.textalig {
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+}
+
+/* Estilo para la etiqueta de copyright */
+.copyright {
+    font-size: 12px;
+    font-weight: bold;
+}
